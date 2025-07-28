@@ -1,4 +1,4 @@
-[![Header](https://github.com/qavdoshkin/qavdoshkin/blob/main/Assets/IMG_8047.JPG)](https://t.me/avdoshkink)
+#Привет, Меня зовут Константин
 
 ### QA Engineer
 
