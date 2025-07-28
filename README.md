@@ -3,8 +3,7 @@
 ### Обо мне:
 Я тестировщик веб и мобильных приложений (фронт,бэк) с пониманием AdTech-экосистем. Последние 3 года тестировал веб-платформу для управления рекламными кампаниями — от функциональных проверок до анализа данных в ClickHouse. Сейчас нахожусь в поиске новой команды.
 
-
-Latest check list
+Мои контакты: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avdoshkink) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavdoshkin@gmail.com)
 
 ### Языки и инструменты
 
