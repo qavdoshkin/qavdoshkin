@@ -13,4 +13,4 @@
 [![DevTools](https://img.shields.io/badge/DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://developer.chrome.com/docs/devtools/)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)](https://www.atlassian.com/software/jira)
 <hr style="height:5px;border:none;color:#333;background-color:#333;">
-Follow me
+
